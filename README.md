@@ -1,5 +1,3 @@
-# hack
-常见的渗透技术和工具
 #help
 You can use this tool for SYN attack！！！
 ## how to use?
